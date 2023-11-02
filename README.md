@@ -1,6 +1,6 @@
 # Spark SQL Data Analysis with AWS S3 and Parquet
 
-This GitHub repository contains Python code that demonstrates data analysis using Spark SQL with data stored in an AWS S3 bucket. It covers various SQL queries and operations performed on the dataset, including caching and working with Parquet formatted data. The code also measures the runtime of different operations for performance evaluation.
+This GitHub repository contains Python code that demonstrates data analysis using Spark SQL with data stored in an AWS S3 bucket. It covers various SQL queries and operations performed on the dataset, including caching and working with Parquet formatted data. The code also measures the runtime of different operations for performance evaluation. Due to installation difficulties, the tasks were performed on a google collab environment, before being exported as a .ipynb file for github.
 
 ## Overview
 
